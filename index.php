@@ -136,7 +136,7 @@ echo "<div class='btn card alert alert-warning' style=' width:300px;'>Request fa
                     </svg>
                 </div>
             </section>
-
+<!-- start webpushr code --> <script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.async=1;js.src = "https://cdn.webpushr.com/app.min.js";fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));webpushr('setup',{'key':'BE102IVcTw2FXo6cNhe6lvJ5m6PXmRwo2_Ux7QpgM169Vi5514718yjvZ-gg7ZMA_c-igfSui-iLFGwILNe5dys' });</script><!-- end webpushr code -->
             <!--===== ABOUT =====-->
             <section class="about section " id="about">
                 <h2 class="section-title">About</h2>
